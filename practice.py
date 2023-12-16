@@ -217,7 +217,6 @@ if selected == "Explore Data":
                       featureidkey='properties.ST_NM',
                       locations='State',
                       color='Total_amount',
-                      
                       color_continuous_scale='sunset')
 
             fig.update_geos(fitbounds="locations", visible=False)
