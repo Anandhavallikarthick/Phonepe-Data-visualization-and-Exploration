@@ -11,8 +11,6 @@ Dynamic updating: You will learn how to create a dashboard that dynamically upda
 Project development and deployment: You will learn how to develop a comprehensive and user-friendly solution, from data extraction to dashboard deployment. You will also learn how to test and deploy the solution to ensure it is secure, efficient, and user-friendly.
 
 
-
-
 ## Developer Guide
 
 1.Tools
@@ -39,7 +37,7 @@ import time
 import numpy as np
 
 
-4. E T L Process
+4. ETL Process
 
 a) Extract data
 
@@ -53,7 +51,7 @@ c) Load data
 
 Finally, create a connection to the MySQL server and create a Database and stored the Transformed data in the MySQL server by using the given method. 
 
-5. E D A Process and Frame work
+5. EDA Process and Frame work
 
 a) Access MySQL DB
 
@@ -65,4 +63,18 @@ Filter and process the collected data depending on the given requirements by usi
 
 c) Visualization
 
-Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are Geo visualization, bar chart, and Dataframe Table
+Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are Geo visualization, bar chart, donut chart, scatter plot.
+
+NAME : Anandhavalli Karthick
+
+BATCH: MDTM20
+
+DOMAIN : DATA SCIENCE
+
+
+
+
+
+
+
+
